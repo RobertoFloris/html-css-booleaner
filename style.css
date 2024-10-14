@@ -1,0 +1,57 @@
+.pattern{
+  background-color: aqua;
+  background-image: url(./img/pattern.png);
+  background-size: 1000px;
+}
+
+h1{
+  margin-bottom: 0px;
+}
+
+.pattern img{
+  height: 100px;
+}
+
+.descrizione{
+  font-size: 0.8rem;
+}
+
+.grigio{
+  color: gray;
+}
+
+.azzurro{
+  color: aquamarine;
+}
+
+thead{
+  background-color:deepskyblue;
+  color: white;
+}
+
+.dispari{
+  background-color: rgb(138, 235, 252);
+}
+
+.w-50{
+  width: 50%;
+}
+
+#img1{
+  color: white;
+  width: 300px;
+  height: 200px;
+  background-image: url(./img/monitor.jpg);
+}
+
+#img2{
+  
+  color: white;
+  width: 300px;
+  height: 200px;
+  background-image: url(./img/graph.jpg);
+}
+
+.evidenziato{
+  background-color: rgb(255, 255, 0);
+}
