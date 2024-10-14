@@ -1,15 +1,18 @@
 .pattern{
-  background-color: aqua;
+  background-color: deepskyblue;
   background-image: url(./img/pattern.png);
-  background-size: 1000px;
+  background-size: 400px;
+  height: 120px;
 }
 
 h1{
   margin-bottom: 0px;
+  font-size: 3rem;
 }
 
 .pattern img{
-  height: 100px;
+  margin-top: 35px;
+  height: 70px;
 }
 
 .descrizione{
@@ -20,13 +23,29 @@ h1{
   color: gray;
 }
 
+.tim{
+  margin-top: 20px;
+}
+
+table{
+  margin: 0px;
+}
+
 .azzurro{
-  color: aquamarine;
+  color: deepskyblue;
 }
 
 thead{
   background-color:deepskyblue;
   color: white;
+}
+
+th{
+  text-align: left;
+}
+
+table{
+  border-spacing: 0px;
 }
 
 .dispari{
@@ -38,6 +57,7 @@ thead{
 }
 
 #img1{
+  margin-top: 20px;
   color: white;
   width: 300px;
   height: 200px;
@@ -54,4 +74,9 @@ thead{
 
 .evidenziato{
   background-color: rgb(255, 255, 0);
+}
+
+.lorem{
+  margin-top: 5000px;
+  font-size: 1.5rem;
 }
