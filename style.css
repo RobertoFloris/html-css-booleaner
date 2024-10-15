@@ -5,6 +5,11 @@
   height: 120px;
 }
 
+body{
+  padding: 100px;
+  padding-top: 0px;
+}
+
 h1{
   margin-bottom: 0px;
   font-size: 3rem;
@@ -77,6 +82,5 @@ table{
 }
 
 .lorem{
-  margin-top: 5000px;
   font-size: 1.5rem;
 }
